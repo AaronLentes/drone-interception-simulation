@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project presents a simulation-based analysis of autonomous drone interception strategies derived from scientific literature. It combines systematic literature analysis with model implementation and experimental evaluation to identify the key factors governing interception success.
+This project presents a simulation-based analysis of autonomous drone interception strategies derived from scientific literature. It combines semi-autonomous systematic literature analysis with model implementation and experimental evaluation to identify the key factors governing interception success.
 
 ---
 
