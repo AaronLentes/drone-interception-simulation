@@ -1,9 +1,10 @@
 # Drone Interception Simulation
 
 ## Overview
-
-**This project is currently in progress and will be available starting April 13.** 
-
+Status: Work in progress  
+Public release: 13 April 2026  
+This repository currently contains the project outline.  
+Implementation and documentation will be published at the deadline.
 
 This project presents a simulation-based analysis of autonomous drone interception strategies derived from scientific literature. It combines semi-autonomous systematic literature analysis with model implementation and experimental evaluation to identify the key factors governing interception success.
 
